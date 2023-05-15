@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PMP-Air/static/css/main.88e3305a.css",
+    "main.js": "/PMP-Air/static/js/main.4c1ff321.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PMP-Air/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/PMP-Air/index.html",
+    "main.88e3305a.css.map": "/PMP-Air/static/css/main.88e3305a.css.map",
+    "main.4c1ff321.js.map": "/PMP-Air/static/js/main.4c1ff321.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PMP-Air/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e3305a.css",
+    "static/js/main.4c1ff321.js"
+  ]
+}
